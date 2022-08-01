@@ -2,6 +2,7 @@
 
 https://www.builtinla.com/2016/10/24/video-game-studios-know
 
+
 The process 
 
 For the project the Goal is to find the perfect location for our new offices. 
@@ -25,56 +26,75 @@ The list of requests set by the campany is:
 - The CEO is vegan. 
 - If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.
 
-
-![Screenshot 2022-07-30 at 18 01 47](https://user-images.githubusercontent.com/104360125/181925263-770a23de-ff8d-45bd-8ca1-44d41afcc97b.png)
-
-![Title Salary Count Total salary](https://user-images.githubusercontent.com/104360125/181925286-09e59fe8-9963-4cee-99dd-b57202d3108a.png)
-
-![Screenshot 2022-07-30 at 18 02 40](https://user-images.githubusercontent.com/104360125/181925304-586ca9ea-bc51-4c6c-85b1-7617fb10fd28.png)
-
-![Screenshot 2022-07-30 at 18 02 58](https://user-images.githubusercontent.com/104360125/181925317-020f80b9-ddcf-42ac-b3ae-b5d05bc9538f.png)
+![image](https://user-images.githubusercontent.com/104360125/182217388-ead85e5a-391d-4431-a3e7-36e4ed537195.png)
 
 
+While creating the final read me we realised that we forgot to implement one of the requests because on Friday we understood we only had to look at tech companies which is all the companies in the database. The ranking of front end and back end developers was therefore ignored. The need for a place to party and having schools nearby got preference since these groups have the largest number of people in them. 
 
-While creating the final read me we realised that we forgot to implement one of the requests because on Friday we understood we only had to look at tech companies which is all the companies in the database. The ranking of front end and back end developers was therefore ignored. 
+##Heat map for Los Angeles of from the MondoDB- Companies
 
 
-To further reduce the number of possible locations for the office in LA we created a function that will keep eliminating offices that do not meet the requests made by the company. 
+![Screenshot 2022-08-01 at 19 01 46](https://user-images.githubusercontent.com/104360125/182218561-29f90dea-a4b9-4dcb-956e-454d0627d830.png)
+
+
+
+
+To further reduce the number of possible locations for the office in LA we created a function that will keep eliminating offices that do not meet the requests made by the company. We use the following function to do this.
+
+##Function for reducing the dataframe and making it meet all the requirements.
+
+
 
 After applying all the filters we ended up with four possible locations. 
 
-- sdfgsdfgsfdag
-- Sferen de
-- Suf suf
-- Suf ds
+#All locations fall within this map  
+
+![Screenshot 2022-08-01 at 19 03 25](https://user-images.githubusercontent.com/104360125/182219150-9d57c759-2850-4002-9a0c-f92b52297cc6.png)
+
 
 All the locations are showcased in the following visualisations 
 
 
-Img 1 
 
-Img 2 
-
-Img3 
-
-Img4 
-
-
-We have requested comments from a person with authority to make a final decision on what office we should pick in LA and he recommended us to go with.
-
-
-We did not trust this advice however and had a closer look at the data from the maps we have shown you before. We went by the order of importance per request and checked which had more options. From this we were able to conclude that the office on…. Was the best option for our offices. 
+![Screenshot 2022-08-01 at 20 29 40](https://user-images.githubusercontent.com/104360125/182219248-422e99d1-1f90-417b-b3c6-9e64a7a3aafc.png)
 
 
 
+#option 1 Social platform
+
+![Screenshot 2022-08-01 at 20 29 47](https://user-images.githubusercontent.com/104360125/182219282-893a65be-f00a-4ce3-8709-b073c17309b0.png)
+
+
+#option 2 Daily Strength
+
+![Screenshot 2022-08-01 at 20 29 56](https://user-images.githubusercontent.com/104360125/182219302-b99fbe44-f6b0-4ac4-9a11-80b4c3725d8d.png)
+
+
+#option 3 Trafficz
+
+![Screenshot 2022-08-01 at 20 33 01](https://user-images.githubusercontent.com/104360125/182219573-02a904d7-3bd2-4cb4-81d0-c7692520e2c7.png)
+
+
+#option 4 Attention span Media
+
+![Screenshot 2022-08-01 at 20 33 01](https://user-images.githubusercontent.com/104360125/182219573-02a904d7-3bd2-4cb4-81d0-c7692520e2c7.png)
 
 
 
+We have requested comments from a local expert with authority to make a final decision on what office we should pick in LA and he recommended us to go with.
+
+
+Since we cannot make assumptions or bias influence the dicision we had a closer look at the data from the maps we have shown you before. We realised that option 3 and 4 which is why we decided to go with this location as this is the only location that had another tech companiy within rnage and this is the request we forgot and mentioned earlier.
 
 
 
+Did you know?
 
+Some of the top gaming companies in LA are:
 
-
+- Naughty dog
+- EA sports 
+- Playstation 
+- Riot Dog
 
 
