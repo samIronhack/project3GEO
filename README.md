@@ -36,8 +36,34 @@ The list of requests set by the campany is:
 
 
 
-To further reduce the number of optional office locations we have created a loopp  that will kee
+While creating the final read me we realised that we forgot to implement one of the requests because on Friday we understood we only had to look at tech companies which is all the companies in the database. The ranking of front end and back end developers was therefore ignored. 
 
+
+To further reduce the number of possible locations for the office in LA we created a function that will keep eliminating offices that do not meet the requests made by the company. 
+
+After applying all the filters we ended up with four possible locations. 
+
+- sdfgsdfgsfdag
+- Sferen de
+- Suf suf
+- Suf ds
+
+All the locations are showcased in the following visualisations 
+
+
+Img 1 
+
+Img 2 
+
+Img3 
+
+Img4 
+
+
+We have requested comments from a person with authority to make a final decision on what office we should pick in LA and he recommended us to go with.
+
+
+We did not trust this advice however and had a closer look at the data from the maps we have shown you before. We went by the order of importance per request and checked which had more options. From this we were able to conclude that the office on…. Was the best option for our offices. 
 
 
 
