@@ -1,9 +1,7 @@
 # project3GEO
 
-https://www.builtinla.com/2016/10/24/video-game-studios-know
 
-
-The process 
+##The process 
 
 For the project the Goal is to find the perfect location for our new offices. 
 To do this we take into account the requests from our valued employees.  We decided to set our focus on the United States to narrow down our search area. 
