@@ -14,6 +14,17 @@ To determine which requirements to take into account for the decision we researc
 We decided on the weight by checking the request the group made and how big the group of employees is. 
 Front-end and back-end developers fall under the same group and therefore are above the executives 
 
+The list of requests set by the campany is:
+
+- 30% of the company staff have at least 1 child.
+- Everyone in the company is between 25 and 40, give them some place to go party.
+- Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.
+- Developers like to be near successful tech startups that have raised at least 1 Million dollars.
+- Account managers need to travel a lot.
+- Executives like Starbucks A LOT. Ensure there's a Starbucks not too far.
+- The CEO is vegan. 
+- If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.
+
 
 ![Screenshot 2022-07-30 at 18 01 47](https://user-images.githubusercontent.com/104360125/181925263-770a23de-ff8d-45bd-8ca1-44d41afcc97b.png)
 
@@ -25,15 +36,18 @@ Front-end and back-end developers fall under the same group and therefore are ab
 
 
 
+To further reduce the number of optional office locations we have created a loopp  that will kee
 
-- 30% of the company staff have at least 1 child.
-- Everyone in the company is between 25 and 40, give them some place to go party.
-- Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.
-- Developers like to be near successful tech startups that have raised at least 1 Million dollars.
-- Account managers need to travel a lot.
-- Executives like Starbucks A LOT. Ensure there's a Starbucks not too far.
-- The CEO is vegan. 
-- If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.
+
+
+
+
+
+
+
+
+
+
 
 
 
